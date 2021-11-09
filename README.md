@@ -1,2 +1,0 @@
-# arnurart.github.io
-ThisIsMyPage
